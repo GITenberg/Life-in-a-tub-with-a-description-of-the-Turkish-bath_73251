@@ -1,0 +1,34 @@
+_repo: Life-in-a-tub-with-a-description-of-the-Turkish-bath_73251
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Diogenes [pseudonym]
+    alias: Διογενης [pseudonym]
+    gutenberg_agent_id: '57008'
+    url: http://www.gutenberg.org/2009/agents/57008
+description: ''
+edition_note: Third edition, revised and enlarged.
+gutenberg_issued: '2024-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73251'
+  lccn: '2020777626'
+language: en
+pgterms:marc904: https://archive.org/details/b28073071/page/n3/mode/2up
+pgterms:marc905: 20231125055642diogenes
+pgterms:marc906: '1858'
+pgterms:marc907: IE
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive)
+publication_note: '  $aIreland :$bWilliam McGee & Co., $c1858.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hydrotherapy'
+- !lcsh 'Baths, Turkish'
+- !lcc 'RM'
+- GITenberg
+title: Life in a tub; with a description of the Turkish bath
+url: http://www.gutenberg.org/ebooks/73251
